@@ -1,0 +1,20 @@
+{
+  "name": "nett",
+  "version": "0.0.1",
+  "description": "using network information api in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhav2612/net.git"
+  },
+  "author": "Sambhav Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambhav2612/net/issues"
+  },
+  "homepage": "https://github.com/sambhav2612/net#readme"
+}
